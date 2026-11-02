@@ -13,7 +13,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://github.com/appelr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="appelr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Randolf Appel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Randolf Appel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/appelr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Randolf Appel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13240634/appelr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13240634/appelr" height="30" width="40" /></a>
 </p>
 
