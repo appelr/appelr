@@ -2,7 +2,7 @@
 
 ### A Media Technology Masters Student @ TH Köln
 
-- 🔭 I recently finished working on a [**close-to-real-time Stereo Vision Tracking system utilizing the OAK-D Pro Camera**](https://github.com/appelr/oak-d_tracking_relay)
+- 🔭 I recently finished working on a [**Low Latency Stereo Vision Tracking System utilizing the OAK-D Pro Camera**](https://github.com/appelr/oak-d_tracking_relay)
 
 - 🌱 I'm currently learning about **Research Workflow improvements** and **Label Smoothing**
 
